@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|c:\\users\\guilherme.bandeira\\demos\\rabbitmqsenfflib\\senfflib\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|c:\\users\\guilherme.bandeira\\demos\\rabbitmqsenfflib\\senfflib\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C338EFF8-3617-4415-93F7-CFC49FDB654F}|Senff.Api\\Senff.Api.csproj|c:\\users\\guilherme.bandeira\\demos\\rabbitmqsenfflib\\senfflib\\senff.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C338EFF8-3617-4415-93F7-CFC49FDB654F}|Senff.Api\\Senff.Api.csproj|solutionrelative:senff.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|c:\\users\\guilherme.bandeira\\demos\\rabbitmqsenfflib\\senfflib\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|c:\\users\\guilherme.bandeira\\demos\\rabbitmqsenfflib\\senfflib\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T16:54:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Senff.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Dockerfile",
+              "RelativeToolTip": "Senff.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T16:52:23.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T16:51:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-15T16:51:30.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-15T16:51:26.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

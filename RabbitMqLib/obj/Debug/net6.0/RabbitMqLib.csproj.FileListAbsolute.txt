@@ -1,0 +1,12 @@
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\bin\Debug\net6.0\RabbitMqLib.deps.json
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\bin\Debug\net6.0\RabbitMqLib.dll
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\bin\Debug\net6.0\RabbitMqLib.pdb
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.AssemblyInfoInputs.cache
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.AssemblyInfo.cs
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.dll
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\refint\RabbitMqLib.dll
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.pdb
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\ref\RabbitMqLib.dll
+C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\RabbitMqLib\obj\Debug\net6.0\RabbitMqLib.csproj.AssemblyReference.cache

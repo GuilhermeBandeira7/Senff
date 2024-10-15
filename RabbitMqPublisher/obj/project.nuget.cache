@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCraHa7MXwkLJAuLdPi08qmoLRXOG/nOj5rl0Y3KYMV0yhN5P4KqQ8Tx+hY0bazNLrQcp/h9EQ1stxrkwD0Plg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqPublisher\\RabbitMqPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\rabbitmqsenfflib\\1.0.0\\rabbitmqsenfflib.1.0.0.nupkg.sha512",
+    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

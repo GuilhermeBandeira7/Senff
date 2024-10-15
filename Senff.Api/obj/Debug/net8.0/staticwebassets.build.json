@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nQybnhK208jf4NlGmeVxVnuvrP3lWvKfacisn3yZX2k=",
+  "Source": "Senff.Api",
+  "BasePath": "_content/Senff.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
