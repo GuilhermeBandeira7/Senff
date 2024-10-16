@@ -11,7 +11,7 @@ bando de dados. O Projeto RabbitMqConsumer usa a SenffLib para ouvir as mensagen
 
 ## 🛠️ Rodar Com Docker
 
- Para rodar o projeto com o docker é necessário entrar na pasta Senff.Api, e buildar o docker file para gerar a imagem com o seguinte comando: "__docker build -t senffapi:1.0__"
+ Para rodar o projeto com o docker é necessário entrar na pasta Senff.Api, e buildar o docker file para gerar a imagem com o seguinte comando: "__docker build -t senffapi:1.0 .__"
  Em seguida, voltar para o pasta raiz do projeto e subir o docker compose com o seguinte comando: "__docker-compose up__ "
  Feito isso, a API estará disponível na porta 5000 do localhost e o rabbit mq na porta 5672.
  É necessário criar as queues e exchange acessando o seguinte end-point: localhost:5000/rabbit
