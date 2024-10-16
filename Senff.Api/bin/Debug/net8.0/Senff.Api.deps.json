@@ -15,6 +15,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "8.0.6",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.6",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.6",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
           "RabbitMqSenffLib": "1.0.0",
           "Senff.Core": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
@@ -432,6 +433,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {},
       "Mono.TextTemplating/2.2.1": {
         "dependencies": {
           "System.CodeDom": "4.4.0"
@@ -461,6 +463,14 @@
         },
         "runtime": {
           "lib/net6.0/RabbitMqLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Senff.Core/1.0.0": {
+        "runtime": {
+          "lib/net8.0/Senff.Core.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -734,15 +744,7 @@
           "System.Text.Encodings.Web": "8.0.0"
         }
       },
-      "System.Threading.Channels/7.0.0": {},
-      "Senff.Core/1.0.0": {
-        "runtime": {
-          "Senff.Core.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      }
+      "System.Threading.Channels/7.0.0": {}
     }
   },
   "libraries": {
@@ -961,6 +963,13 @@
       "path": "microsoft.openapi/1.6.14",
       "hashPath": "microsoft.openapi.1.6.14.nupkg.sha512"
     },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8NudeHOE56YsY59HYY89akRMup8Ho+7Y3cADTGjajjWroXVU9RQai2nA6PfteB8AuzmRHZ5NZQB2BnWhQEul5g==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.21.0",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+    },
     "Mono.TextTemplating/2.2.1": {
       "type": "package",
       "serviceable": true,
@@ -981,6 +990,13 @@
       "sha512": "sha512-KQhdKGTj/pUQ7KBcF8oEhHjQwos1MevRBMOQebKh0g/dz6OnJNQsAGaN06gg8uT74PKjoFe+FqKs1HmfRvmsMw==",
       "path": "rabbitmqsenfflib/1.0.0",
       "hashPath": "rabbitmqsenfflib.1.0.0.nupkg.sha512"
+    },
+    "Senff.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NxQ/2YWUj7OJE30UXYk3qCgCEUn9bDemOLcLRAMaUwLk7W/kmCOEr0kefM3I1/REh8NX3pVQXd0S1I/VZF5iog==",
+      "path": "senff.core/1.0.0",
+      "hashPath": "senff.core.1.0.0.nupkg.sha512"
     },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.6": {
       "type": "package",
@@ -1149,11 +1165,6 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
-    },
-    "Senff.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

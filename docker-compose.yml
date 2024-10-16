@@ -1,7 +1,25 @@
-services:
-  senff.api:
-    image: ${DOCKER_REGISTRY-}senffapi
-    build:
-      context: .
-      dockerfile: Senff.Api\Dockerfile
+version: "3.8"
 
+services:
+  # ASP.NET Core Application
+  # RabbitMQ Service
+  rabbitmq:
+    image: rabbitmq:4.0-management  # Official RabbitMQ image with management plugin
+    ports:
+      - "5672:5672"  # Default RabbitMQ port
+      - "15672:15672" # Management interface port
+    networks:
+      - my-network
+  senffapi:
+    image: senffapi:1.0
+    ports:
+      - "5000:8080" # Map container port 80 to host port 5000 (change as needed)
+    depends_on:
+      - rabbitmq
+    networks:
+      - my-network
+networks:
+  my-network:
+    driver: bridge
+
+  

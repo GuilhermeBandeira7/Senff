@@ -25,3 +25,15 @@ C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\Senff.Core\obj\Debug
 C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\Senff.Core\obj\Debug\net8.0\refint\Senff.Core.dll
 C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\Senff.Core\obj\Debug\net8.0\Senff.Core.pdb
 C:\Users\guilherme.bandeira\demos\RabbitMqSenffLib\SenffLib\Senff.Core\obj\Debug\net8.0\ref\Senff.Core.dll
+D:\GuiProjetos\Senff\Senff.Core\bin\Debug\net8.0\Senff.Core.deps.json
+D:\GuiProjetos\Senff\Senff.Core\bin\Debug\net8.0\Senff.Core.dll
+D:\GuiProjetos\Senff\Senff.Core\bin\Debug\net8.0\Senff.Core.pdb
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.AssemblyInfoInputs.cache
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.AssemblyInfo.cs
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.csproj.CoreCompileInputs.cache
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.sourcelink.json
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.dll
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\refint\Senff.Core.dll
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\Senff.Core.pdb
+D:\GuiProjetos\Senff\Senff.Core\obj\Debug\net8.0\ref\Senff.Core.dll

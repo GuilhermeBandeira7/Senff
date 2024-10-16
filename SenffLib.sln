@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senff.Api", "Senff.Api\Senf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senff.Core", "Senff.Core\Senff.Core.csproj", "{CF75DF99-0B51-4713-9DD7-C4CFFCAA7A7F}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{CF75DF99-0B51-4713-9DD7-C4CFFCAA7A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF75DF99-0B51-4713-9DD7-C4CFFCAA7A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF75DF99-0B51-4713-9DD7-C4CFFCAA7A7F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{85C2CC9B-80E5-4CB8-ABC8-D8E85BEC2995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

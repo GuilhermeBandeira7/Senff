@@ -1,44 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Senff.Api.csproj": {}
+    "D:\\GuiProjetos\\Senff\\Senff.Api\\Senff.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Senff.Api.csproj": {
+    "D:\\GuiProjetos\\Senff\\Senff.Api\\Senff.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Senff.Api.csproj",
+        "projectUniqueName": "D:\\GuiProjetos\\Senff\\Senff.Api\\Senff.Api.csproj",
         "projectName": "Senff.Api",
-        "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Senff.Api.csproj",
-        "packagesPath": "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\obj\\",
+        "projectPath": "D:\\GuiProjetos\\Senff\\Senff.Api\\Senff.Api.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "D:\\GuiProjetos\\Senff\\Senff.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilherme.bandeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj": {
-                "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,6 +83,10 @@
               "target": "Package",
               "version": "[1.0.0, )"
             },
+            "Senff.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -105,62 +107,6 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj",
-        "projectName": "Senff.Core",
-        "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj",
-        "packagesPath": "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\guilherme.bandeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

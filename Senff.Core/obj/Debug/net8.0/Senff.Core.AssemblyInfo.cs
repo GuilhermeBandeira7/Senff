@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Senff.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcc6fadd931b40bb4609a073ba0d3fa0315107f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Senff.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Senff.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

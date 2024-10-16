@@ -123,27 +123,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqLib\\RabbitMqLib.csproj",
+      "projectUniqueName": "D:\\GuiProjetos\\Senff\\RabbitMqLib\\RabbitMqLib.csproj",
       "projectName": "RabbitMqLib",
-      "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqLib\\RabbitMqLib.csproj",
-      "packagesPath": "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqLib\\obj\\",
+      "projectPath": "D:\\GuiProjetos\\Senff\\RabbitMqLib\\RabbitMqLib.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "D:\\GuiProjetos\\Senff\\RabbitMqLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\guilherme.bandeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -156,6 +153,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -178,6 +180,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

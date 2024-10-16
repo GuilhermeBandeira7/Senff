@@ -5,3 +5,4 @@ using RabbitMqLib.Services;
 Console.WriteLine("Hello From the Consumer!");
 
 var consumer = new RabbitConsumer("listener", "guest", "guest");
+consumer.QueueListener("publishers");

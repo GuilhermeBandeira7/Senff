@@ -13,10 +13,10 @@ publisher.BindQueueToExchange("senffapi", "providers", "prov");
 publisher.BindQueueToExchange("senffapi", "publishers", "prod");
 
  for(int i = 0; i < 10; i++)
-    await publisher.SendingMessage($"Hello from the publisher {i}", "senffapi", "prod");
+    await publisher.SendingMessage($"Hello from the publisher", "senffapi", "prod");
 
-for(int i = 0; i < 19; i++) 
-    await publisher.SendingMessage($"Hello from the publisher {i}", "senffapi", "prov");
+for(int i = 0; i < 10; i++) 
+    await publisher.SendingMessage($"Hello from the publisher", "senffapi", "prov");
 
 
 

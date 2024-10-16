@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "MWfnkYbBFNKM+s7OkYIV22e0lrVzG9rlwFA4WnOep5fNYAM19NP+I7j++YlpUAY9uvnIQ78P59/0T66bKT5EqQ==",
+  "dgSpecHash": "5CA+wQ3jtdQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqConsumer\\RabbitMqConsumer.csproj",
+  "projectFilePath": "D:\\GuiProjetos\\Senff\\RabbitMqConsumer\\RabbitMqConsumer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
-    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\rabbitmqsenfflib\\1.0.0\\rabbitmqsenfflib.1.0.0.nupkg.sha512",
-    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\rafae\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\rabbitmqsenfflib\\1.0.0\\rabbitmqsenfflib.1.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
   ],
   "logs": []
 }

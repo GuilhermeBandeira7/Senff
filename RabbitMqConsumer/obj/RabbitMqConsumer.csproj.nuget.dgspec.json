@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqConsumer\\RabbitMqConsumer.csproj": {}
+    "D:\\GuiProjetos\\Senff\\RabbitMqConsumer\\RabbitMqConsumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqConsumer\\RabbitMqConsumer.csproj": {
+    "D:\\GuiProjetos\\Senff\\RabbitMqConsumer\\RabbitMqConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqConsumer\\RabbitMqConsumer.csproj",
+        "projectUniqueName": "D:\\GuiProjetos\\Senff\\RabbitMqConsumer\\RabbitMqConsumer.csproj",
         "projectName": "RabbitMqConsumer",
-        "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqConsumer\\RabbitMqConsumer.csproj",
-        "packagesPath": "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\RabbitMqConsumer\\obj\\",
+        "projectPath": "D:\\GuiProjetos\\Senff\\RabbitMqConsumer\\RabbitMqConsumer.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "D:\\GuiProjetos\\Senff\\RabbitMqConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilherme.bandeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -57,6 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

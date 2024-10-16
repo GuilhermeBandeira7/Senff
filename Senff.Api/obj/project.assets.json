@@ -716,6 +716,15 @@
           "lib/net6.0/RabbitMqLib.dll": {}
         }
       },
+      "Senff.Core/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Senff.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Senff.Core.dll": {}
+        }
+      },
       "SQLitePCLRaw.bundle_e_sqlite3/2.1.6": {
         "type": "package",
         "dependencies": {
@@ -1184,16 +1193,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Senff.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Senff.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Senff.Core.dll": {}
         }
       }
     }
@@ -2584,6 +2583,18 @@
         "rabbitmqsenfflib.nuspec"
       ]
     },
+    "Senff.Core/1.0.0": {
+      "sha512": "NxQ/2YWUj7OJE30UXYk3qCgCEUn9bDemOLcLRAMaUwLk7W/kmCOEr0kefM3I1/REh8NX3pVQXd0S1I/VZF5iog==",
+      "type": "package",
+      "path": "senff.core/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net8.0/Senff.Core.dll",
+        "senff.core.1.0.0.nupkg.sha512",
+        "senff.core.nuspec"
+      ]
+    },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.6": {
       "sha512": "BmAf6XWt4TqtowmiWe4/5rRot6GerAeklmOPfviOvwLoF5WwgxcJHAxZtySuyW9r9w+HLILnm8VfJFLCUJYW8A==",
       "type": "package",
@@ -3222,11 +3233,6 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Senff.Core/1.0.0": {
-      "type": "project",
-      "path": "../Senff.Core/Senff.Core.csproj",
-      "msbuildProject": "../Senff.Core/Senff.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3245,43 +3251,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\": {}
+    "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Senff.Api.csproj",
+      "projectUniqueName": "D:\\GuiProjetos\\Senff\\Senff.Api\\Senff.Api.csproj",
       "projectName": "Senff.Api",
-      "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\Senff.Api.csproj",
-      "packagesPath": "C:\\Users\\guilherme.bandeira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Api\\obj\\",
+      "projectPath": "D:\\GuiProjetos\\Senff\\Senff.Api\\Senff.Api.csproj",
+      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+      "outputPath": "D:\\GuiProjetos\\Senff\\Senff.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\guilherme.bandeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj": {
-              "projectPath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3325,6 +3329,10 @@
             "version": "[1.21.0, )"
           },
           "RabbitMqSenffLib": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "Senff.Core": {
             "target": "Package",
             "version": "[1.0.0, )"
           },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+oLrg2m/PdpMhCdSthQmZpchhc8p2iAk++fbcpZvR2CiHlPfuCzY2vKD3SGF3vW30CrKbr12svxy6Ih5vhQNg==",
+  "dgSpecHash": "2rVvgftSLoo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilherme.bandeira\\demos\\RabbitMqSenffLib\\SenffLib\\Senff.Core\\Senff.Core.csproj",
+  "projectFilePath": "D:\\GuiProjetos\\Senff\\Senff.Core\\Senff.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
