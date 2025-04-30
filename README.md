@@ -7,7 +7,7 @@
 
 A Biblioteca SenffLib (disponível como nuget package https://www.nuget.org/packages/RabbitMqSenffLib/) é responsável por abstrair a integração com o RabbitMQ.
 A solução possui uma minimal API feita em .NET8 que usa a SenffLib para enviar mensagens ao Broker sempre que um produto ou fornecedor for adicionado no 
-bando de dados. O Projeto RabbitMqConsumer usa a SenffLib para ouvir as mensagens de determinada fila.
+banco de dados. O Projeto RabbitMqConsumer usa a SenffLib para ouvir as mensagens de determinada fila.
 
 ## 🛠️ Rodar Com Docker
 
